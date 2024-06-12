@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anmoldixit-10
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on WebDevelpoer 
+- 💞️ I’m looking to collaborate on WebDevelopment Project 
 - 📫 How to reach me https://www.linkedin.com/in/anmoldixit10/
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
